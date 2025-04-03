@@ -1,2 +1,2 @@
-# Ola-Mundo
- Primeiro repositório do curso de Git e GitHub
+# Olá, Mundo!
+Este é o meu primeiro repositório e eu estou testando a interoperabilidade do GitHub Desktop com o VSCode.
